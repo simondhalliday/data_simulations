@@ -1,9 +1,12 @@
 data_simulations
 ================
 
-This is a large project where a colleage (Andrew Bray) and I are composing simulations of economic models for introductory and 
-intermediate economics courses. We hope to provide a variety of models both for 'mainstream' and 'heterodox' economics. 
+This is a large project where a colleage (Andrew Bray) and I are composing simulations of data to 'check' economic models 
+that are taught in introductory and intermediate microeconomics. Some of the data simulations will have little to do with 
+economic theory, but rather to do with interesting historical data that presents interesting problems for economic theory
+to explain, such as the various 'hockey stick' graphs that we will be putting here. 
 
-Isoquant Model:
-The first model provided here is a standard isoquant and isocost model based on producer theory based on a constant returns to 
-scale Cobb-Douglas production technology and a linear isocost curve. 
+Other simulations will involve data to show students some basic ideas in economic theory, from demand curves based on price 
+and quantity data, to data on industry behavior (in the future). 
+
+
